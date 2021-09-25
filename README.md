@@ -1,4 +1,4 @@
 # 💡 Keep Notes clone
 ---
-![KEEP-NOTE!](images/1.png)
+<img src="images/1.png" align='left' width='50%' height = '50%'>
 
