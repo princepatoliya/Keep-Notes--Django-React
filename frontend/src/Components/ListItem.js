@@ -20,7 +20,6 @@ const ListItem = ({note}) => {
     }
 
     let getContent = (note) => {
-        console.log("get content")
         let content =  note.body.replaceAll('\n', " ")
         content = content.replaceAll(getTitle(note), "")
         if(content.length > 70){
